@@ -1,6 +1,6 @@
 # IETF 110 project presentations
 
-This repo is for IETF hackathon participants to upload their hackathon project presentations. The contents of this repo will be used as the source for all project presentations at the end of the hackathon and remain as a reference after the hackathon. Presenters are welcome to run their own presentations using the screen sharing functionality in Meetecho. Alternatively, the hackathon chairs can share your presentation and advance slides for you.  **For portability, please upload your presentation in PDF format.**
+This repo is for IETF hackathon participants to upload their hackathon project presentations. For your convenience, presentation templates are provided in [PPTX](hackathon-presentation-template.pptx) and [HTML](hackathon-presentation-template.html) formats. Use of these templates is optional. The contents of this repo will be used as the source for all project presentations at the end of the hackathon and remain as a reference after the hackathon. Presenters are welcome to run their own presentations using the screen sharing functionality in Meetecho. Alternatively, the hackathon chairs can share your presentation and advance slides for you.  **For portability, please upload your presentation in PDF or HTML format.**
 
 **You MUST be a [member](https://github.com/orgs/IETF-Hackathon/people) of the [IETF-Hackathon](https://github.com/IETF-Hackathon) GitHub org** to upload a new presentation or update/replace an existing presentation. 
 
